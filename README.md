@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kshitij Saxena
 
 🎓 Second-year B.Tech Computer Science student at Bennett University
-
 🚀 Exploring Artificial Intelligence, Machine Learning, and Data Science
 📊 Building real-world projects to strengthen my skills and GitHub portfolio
 
