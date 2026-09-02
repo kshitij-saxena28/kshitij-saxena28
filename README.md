@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kshitij Saxena
 
-🎓 **Third-Year B.Tech Computer Science Student**
-🤖 **Artificial Intelligence & Machine Learning Enthusiast**
-🚀 Building practical projects in **AI/ML, NLP, Data Science, and Software Development**
+- 🎓 **Third-Year B.Tech Computer Science Student**
+- 🤖 **Artificial Intelligence & Machine Learning Enthusiast**
+- 🚀 Building practical projects in **AI/ML, NLP, Data Science, and Software Development**
 
 I enjoy turning ideas and datasets into **working, real-world applications** while continuously improving my problem-solving and development skills.
 
